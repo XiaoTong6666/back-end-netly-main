@@ -1,18 +1,14 @@
 {
-  "name": "back_end_netly",
+  "name": "nodejs-proxy-example",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example of @3kmfi6hp/nodejs-proxy",
   "main": "index.js",
   "scripts": {
-    "build": "netlify deploy --prod",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "3Kmfi6HP",
+  "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "serverless-http": "^2.7.0"
+    "@3kmfi6hp/nodejs-proxy": "latest"
   }
 }
