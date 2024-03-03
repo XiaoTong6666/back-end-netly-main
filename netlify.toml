@@ -1,6 +1,6 @@
 [build]
     functions="functions"
-
+    command = "npm install"
 [[redirects]]
     to="/.netlify/functions/api:splat"
     from="/*"
