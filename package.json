@@ -1,14 +1,5 @@
 {
-  "name": "nodejs-proxy-example",
-  "version": "1.0.0",
-  "description": "An example of @3kmfi6hp/nodejs-proxy",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "3Kmfi6HP",
-  "license": "MIT",
   "dependencies": {
-    "@3kmfi6hp/nodejs-proxy": "latest"
+    "@3kmfi6hp/nodejs-proxy": "^1.0.29"
   }
 }
